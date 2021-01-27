@@ -69,7 +69,7 @@ W celu zredukowania wpływu niezbalansowania klas na model zaimplementowaliśmy 
 ## Przeprowadzone eksperymenty
 Zaimplementowany las losowy pieńków decyzyjnych porównywaliśmy z lasem losowym o maksymalnej głębokości drzewa = 1 z biblioteki scikit-learn. Oceniając modele korzystaliśmy z k-krotnej walidacji krzyżowej.
 
-<center> ![](plot3.jpeg){ width=75% } </center>
+![](plot3.jpeg){ width=60% }
 
 **Pierwszy eksperyment** miał na celu porównanie naszego modelu zawierającego 1000 pieńków decyzyjnych z modelem RandomForestClassifier zawierającym 1000 drzew o głębokości 1. Porównywaliśmy nasz model w 3 wariantach różniących się metodami próbkowania z dwoma wariantami modelu z biblioteki - z próbkowaniem bootstrap oraz z balansowanymi wagami klas.
 
