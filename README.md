@@ -4,8 +4,8 @@ geometry: margin=1.5cm
 # MM.DD.K5 Random Forest - decision stumps
 
 ## Skład zespołu
-- Maciej Dmowski
-- Adam Szałowski
+- [Maciej Dmowski](https://github.com/MDmowski)
+- [Adam Szałowski](https://github.com/aszalowski)
 
 ## Treść zadania
 Zaimplementować algorytm lasu losowego (ang. Random Forest) do klasyfikacji oparty na modelu lasu losowego pieńków decyzyjnych (ang. decision stumps). Zbiór danych do użycia: [Car Evaluation](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation). Uzyskane rezultaty porównać z wynikami dla wybranej implementacji algorytmu ML z dostępnych bibliotek np. Scikit-learn, WEKA, MLlib, Tensorflow/Keras etc.
